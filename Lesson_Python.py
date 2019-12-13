@@ -1,3 +1,3 @@
 a=int(input("Введите целое число\n"))
-b=a+5
-input(b)
+b=a+25
+input(b*2)
