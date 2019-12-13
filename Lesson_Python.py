@@ -1,3 +1,3 @@
-print(1,2,3,sep=',',end='           ')
-print(4,5,sep='!!!!!!!!')
-print(7)
+rubles = int(input("Таки сколько вы имеете рублей?\n"))
+kop = int(input("А копеек?\n"))
+print("У меня есть", rubles ,"рублей", kop,"копеек")
