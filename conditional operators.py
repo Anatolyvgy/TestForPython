@@ -1,18 +1,17 @@
-#conditional operator if
 a = int(input())
-if a%5==0:
-    if a>9 and a<100:
-        print(1)
-        print(2)
+b = int(input())
+c = int(input())
+if a<b:
+    #a - min
+    if a<c:
+        print('smallet number is:       ',a)
     else:
-        print(3)
-        print(4)
+        print('smallet number is:       ',c)
 else:
-    if a%2==0:
-        print(5)
-        print(6)
+    #b -min
+    if b<c:
+        print('smallet number is:        ',b)
     else:
-        print(7)
-        print(8)
+        print('smallet number is:        ',c)
 print('This programm is over')
     
