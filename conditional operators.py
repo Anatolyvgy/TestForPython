@@ -1,3 +1,4 @@
+#conditional operator if
 a = int(input())
 if a%5==0:
     if a>9 and a<100:
