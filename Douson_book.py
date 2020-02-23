@@ -1,3 +1,4 @@
 # input game over
 print("\n\n\n                 Game over")
-input("\n\n     Press any key to continue...\n")
+print("\n\n\n                 Try again?")
+input("\n\n     Press Enter key to continue...\n")
