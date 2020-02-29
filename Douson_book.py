@@ -1,4 +1,14 @@
-# input game over
-print("\n\n\n                 Game over")
-print("\n\n\n                 Try again?")
-input("\n\n     Press Enter key to continue...\n")
+# fanny lines
+#Демонстрирует сцепление и повторение строк
+print("\n\nДве строки можно сцеплять с помощью" \
+      + " оператора '+'")
+print("Эта строка " + "вряд " + "ли " + "удивит Вас" +"\n\n" \
+
+
+
++ "Страшно что взрослые - это мы\n")
+print("                                     Анатолий батькович")
+input('''\n\n                 Вы согласны?
+\n             Если да, нажмите Enter''')
+print("\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a")
+
